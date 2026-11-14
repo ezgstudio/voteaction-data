@@ -1,18 +1,34 @@
 {
  "schema": 1,
- "version": "2026-11-14T15:53:56Z",
+ "version": "2026-11-14T17:48:24Z",
  "built": "2026-11-14",
  "states": {
   "MA": {
    "path": "ma.json",
-   "sha256": "b6ab246702c63c57eccbcde83fed69b83d77aadd7922f025add251ed4a1179b6",
+   "name": "Massachusetts",
+   "sha256": "f5048c3eacebef8831a2b44516024ef8ced60414bcb74bd3aa0d846e0a1d3f24",
    "bytes": 72734,
    "built": "2026-11-14"
   },
   "CT": {
    "path": "ct.json",
+   "name": "Connecticut",
    "sha256": "6f9c606a4ecb81b4caa1970cda61cf61c4856cdf256f9ed43deb026a40847234",
    "bytes": 52389,
+   "built": "2026-11-14"
+  },
+  "ME": {
+   "path": "me.json",
+   "name": "Maine",
+   "sha256": "3996d70f737b2b9bcb8c14fa22eee98ff44d132b4b39b4abfa67311cd5c6c708",
+   "bytes": 49414,
+   "built": "2026-11-14"
+  },
+  "RI": {
+   "path": "ri.json",
+   "name": "Rhode Island",
+   "sha256": "364ed17f387c44465ef8c236cfcb6eb7b0ad1728118c820a43c7d3b476ff7ff9",
+   "bytes": 30445,
    "built": "2026-11-14"
   }
  }
