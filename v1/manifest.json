@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "version": "2026-11-14T15:26:59Z",
+ "version": "2026-11-14T15:43:47Z",
  "built": "2026-11-14",
  "states": {
   "MA": {
    "path": "ma.json",
-   "sha256": "48c1bc4ec3a3b5afdc8a369bafbe043ba213311ef6ae912c2f411cbbcb29a330",
+   "sha256": "19b2818d054e5b1430c0c75970d04632d99941294bb79ad268c557089775d501",
    "bytes": 72836,
    "built": "2026-11-14"
   },
