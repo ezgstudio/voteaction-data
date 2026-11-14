@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "version": "2026-11-14T17:48:24Z",
+ "version": "2026-11-14T20:00:23Z",
  "built": "2026-11-14",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "f5048c3eacebef8831a2b44516024ef8ced60414bcb74bd3aa0d846e0a1d3f24",
+   "sha256": "7134955dde1d8efba7e681acbeb4023ea5687a8fe839c924d655b94bd1304dbd",
    "bytes": 72734,
    "built": "2026-11-14"
   },
@@ -22,6 +22,27 @@
    "name": "Maine",
    "sha256": "3996d70f737b2b9bcb8c14fa22eee98ff44d132b4b39b4abfa67311cd5c6c708",
    "bytes": 49414,
+   "built": "2026-11-14"
+  },
+  "NY": {
+   "path": "ny.json",
+   "name": "New York",
+   "sha256": "e4af843a132660f213e0a32506d12f15dafa9ada9b91cd8ae21dd3bfabe04cd8",
+   "bytes": 57186,
+   "built": "2026-11-14"
+  },
+  "OH": {
+   "path": "oh.json",
+   "name": "Ohio",
+   "sha256": "b4bad04df456e6c9b51da70d2400d9a7bf5768a6d615d6b2cd42b4d0f538efdf",
+   "bytes": 32903,
+   "built": "2026-11-14"
+  },
+  "PA": {
+   "path": "pa.json",
+   "name": "Pennsylvania",
+   "sha256": "3eeb65e73452dadf9b38e01afe8c1da519e9c1b53a98e681c0cf0b5419c3701a",
+   "bytes": 71188,
    "built": "2026-11-14"
   },
   "RI": {
