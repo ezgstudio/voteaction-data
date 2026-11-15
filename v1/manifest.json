@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "version": "2026-11-15T03:45:11Z",
- "built": "2026-11-14",
+ "version": "2026-11-15T05:20:20Z",
+ "built": "2026-11-15",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "15d26ab0293b4f799df4ad5df252ef544c43439d9098a64d5bbfac79cc2461db",
+   "sha256": "d5631bde107a09c48e66e349c4ab264290664891f8cc4a7d2ce60d8e5293cb49",
    "bytes": 72734,
-   "built": "2026-11-14"
+   "built": "2026-11-15"
   },
   "CA": {
    "path": "ca.json",
@@ -91,75 +91,75 @@
  "legislation": {
   "CA": {
    "path": "legislation/ca.json",
-   "sha256": "7930aee7b0a0287c9dbb9766a896accac4ccf3ded2c1cc54932355509dc554e0",
-   "bytes": 1885968,
-   "built": "2026-11-15T03:45:00Z"
+   "sha256": "6b2c5f256bd783c1f9fbe7525c8736da2e689ca99107f293cc46c496c39b5cc8",
+   "bytes": 1908101,
+   "built": "2026-11-15T05:05:49Z"
   },
   "CT": {
    "path": "legislation/ct.json",
-   "sha256": "16c62ea585b7f4568fe7741abe40f9e7b4382bb8295b53812b1102a54b048500",
-   "bytes": 799027,
-   "built": "2026-11-15T03:43:30Z"
+   "sha256": "7da069c338cda2bd7f7a2636590f4056e074663abc975b9654ae825d6dc0ddb8",
+   "bytes": 820084,
+   "built": "2026-11-15T04:24:43Z"
   },
   "FL": {
    "path": "legislation/fl.json",
-   "sha256": "b0beb97c46e6ebbceff4e72349d2d84d8989bd71a337a70d511883fd4e58248a",
-   "bytes": 1118674,
-   "built": "2026-11-15T03:45:01Z"
+   "sha256": "90dd861e749867af03b22668f1f4d27df5d75010720d42e40e6bd93d501484ca",
+   "bytes": 1137251,
+   "built": "2026-11-15T05:11:34Z"
   },
   "IL": {
    "path": "legislation/il.json",
-   "sha256": "deca6e264e9b8c389eff0d5a71ff16e274a9cc75e523ee18b2e9566177d14cc5",
-   "bytes": 1348005,
-   "built": "2026-11-15T03:43:49Z"
+   "sha256": "a9ad65a2c5e4edc00f6fc091004b10a61c14d9fe90ee605408b1906b020d34d4",
+   "bytes": 1369825,
+   "built": "2026-11-15T04:49:43Z"
   },
   "MA": {
    "path": "legislation/ma.json",
-   "sha256": "ef5cc651fb0b7f4e3ca78fc749485b62f2c3a38b96bb051d152cf48be6d78469",
-   "bytes": 2258866,
-   "built": "2026-11-15T03:43:27Z"
+   "sha256": "b50fd9b1d91fe3c87ecc68afd8f512307365e610802a810e65067fa52b1b51fc",
+   "bytes": 2279579,
+   "built": "2026-11-15T04:23:37Z"
   },
   "ME": {
    "path": "legislation/me.json",
-   "sha256": "22ad58700455f4af94859a5e3437d7090aebd496710c99ad8ae1b7ae0cc2f45a",
-   "bytes": 1380537,
-   "built": "2026-11-15T03:43:33Z"
+   "sha256": "412f2351292ec01309f2c8d5309f12dc025d1896a06b29b52b0b1adbf359e01e",
+   "bytes": 1447976,
+   "built": "2026-11-15T04:25:24Z"
   },
   "MI": {
    "path": "legislation/mi.json",
-   "sha256": "4c616f8915db1e763b6fbb342e0634cb4ddfce79629ca867f57bf49904e8dfba",
-   "bytes": 1705106,
-   "built": "2026-11-15T03:43:45Z"
+   "sha256": "d57a942555afcb3a36d616c03a494866baa1e60d6aba7c75e6323f8e12ee1c99",
+   "bytes": 1728989,
+   "built": "2026-11-15T04:44:00Z"
   },
   "NY": {
    "path": "legislation/ny.json",
-   "sha256": "52d8f5ed0a28028a7049745583f6d8d210c2e5f6c93346f96a8838fe2866f48b",
-   "bytes": 1970024,
-   "built": "2026-11-15T03:43:39Z"
+   "sha256": "155b793835bc8778a96289c96d0602dc7adb755980a511d1207eb128d4d602cc",
+   "bytes": 1998908,
+   "built": "2026-11-15T04:32:53Z"
   },
   "OH": {
    "path": "legislation/oh.json",
-   "sha256": "9ae1132b8eb4af72a3259c7ef153900326e992fa8e57e23fb262e1f5ddb770ef",
-   "bytes": 867741,
-   "built": "2026-11-15T03:43:43Z"
+   "sha256": "d0af69958a4128b9587fa5325e1a4cf9d564333cd4bd037eddffbfa3737052ee",
+   "bytes": 882927,
+   "built": "2026-11-15T04:39:53Z"
   },
   "PA": {
    "path": "legislation/pa.json",
-   "sha256": "4dfe40f8f07bfcf383b64091724d57d472a7a08142ce7439c93af89f08b57d06",
-   "bytes": 2111117,
-   "built": "2026-11-15T03:43:42Z"
+   "sha256": "74c74cc5539068d2f2681362e50186ac474bc285495f4633048879275fc950fc",
+   "bytes": 2145110,
+   "built": "2026-11-15T04:36:56Z"
   },
   "RI": {
    "path": "legislation/ri.json",
-   "sha256": "af49bc7c2ce301ece3192542ed65dfc8803980f12e6c0c590420afd5ebbd92c3",
-   "bytes": 750921,
-   "built": "2026-11-15T03:43:31Z"
+   "sha256": "527ec77ad5fe09735a98438a763e8dc0121e99c0d090d56f1e6a384f2405ef2c",
+   "bytes": 768182,
+   "built": "2026-11-15T04:24:45Z"
   },
   "TX": {
    "path": "legislation/tx.json",
-   "sha256": "bd405e43412fc0e20f3658b15123b5e60be5047bb1da6373f94df31a4d122b04",
-   "bytes": 1572747,
-   "built": "2026-11-15T03:45:06Z"
+   "sha256": "77659d7c593fe95010fa73a7f4b5c1108888c9190eeffef080e14be921165314",
+   "bytes": 1594234,
+   "built": "2026-11-15T05:18:52Z"
   }
  }
 }
