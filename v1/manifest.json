@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "version": "2026-11-18T05:50:01Z",
+ "version": "2026-11-18T05:59:00Z",
  "built": "2026-11-18",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "a223709a77b24a946f0f52dafe071830e3b78d87bcf4831566e3b158bae3bcd7",
+   "sha256": "763afe8f08f0b1cc96ac379902116529f5b8af4a5b4a7a22717b98c761a29522",
    "bytes": 72734,
    "built": "2026-11-18"
   },
@@ -290,6 +290,13 @@
    "bytes": 36609,
    "built": "2026-11-15"
   },
+  "VT": {
+   "path": "vt.json",
+   "name": "Vermont",
+   "sha256": "9eb7cf2ed62c35caa2a04951d3991d2d4ccd18ebfe8c824bb3f1c2c32d47126d",
+   "bytes": 48355,
+   "built": "2026-11-18"
+  },
   "WA": {
    "path": "wa.json",
    "name": "Washington",
@@ -565,6 +572,12 @@
    "sha256": "3fa75056fe16f794f927072637cbe2080ed636f4f30e33db3858219df1110e21",
    "bytes": 2219334,
    "built": "2026-11-16T00:01:37Z"
+  },
+  "VT": {
+   "path": "legislation/vt.json",
+   "sha256": "1fceed56a6ff2560ecd6cf4d678134f9a2b0695e0c21bc042df08f3a1cfc0439",
+   "bytes": 741266,
+   "built": "2026-11-18T05:54:20Z"
   },
   "WA": {
    "path": "legislation/wa.json",
