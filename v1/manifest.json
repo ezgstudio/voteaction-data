@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "version": "2026-11-18T13:26:23Z",
+ "version": "2026-11-18T23:56:55Z",
  "built": "2026-11-18",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "2e7c9966025e7eedc794d0ed9c62306ac1f6dbb1b6750f38c3effd7db3a5824b",
+   "sha256": "7a794909fe48f462afa5e44dd9c72aa2338329736369a1a77b5c94d824408c01",
    "bytes": 72734,
    "built": "2026-11-18"
   },
@@ -58,6 +58,13 @@
    "sha256": "6f9c606a4ecb81b4caa1970cda61cf61c4856cdf256f9ed43deb026a40847234",
    "bytes": 52389,
    "built": "2026-11-14"
+  },
+  "DC": {
+   "path": "dc.json",
+   "name": "District of Columbia",
+   "sha256": "d894bd52c4cc454f5bf1b6554dd9e12cba80be3252c2c559886c55207c3abd64",
+   "bytes": 13568,
+   "built": "2026-11-18"
   },
   "DE": {
    "path": "de.json",
@@ -269,6 +276,13 @@
    "bytes": 71188,
    "built": "2026-11-14"
   },
+  "PR": {
+   "path": "pr.json",
+   "name": "Puerto Rico",
+   "sha256": "7254861a44f81bbe6a875ec7c3fb3bbd269d17409dcee994652f724fc4c185ce",
+   "bytes": 179738,
+   "built": "2026-11-18"
+  },
   "RI": {
    "path": "ri.json",
    "name": "Rhode Island",
@@ -396,6 +410,12 @@
    "sha256": "ccb79beb1ab7324d9c50c50ff6f242e42aa50568e21444c78190dfdb2f8f6969",
    "bytes": 1017987,
    "built": "2026-11-15T23:58:10Z"
+  },
+  "DC": {
+   "path": "legislation/dc.json",
+   "sha256": "1031f7ced5f5a29e139eb252943af10d4ed771c477448f1b0cfb6317f921ffb7",
+   "bytes": 358514,
+   "built": "2026-11-18T23:53:58Z"
   },
   "DE": {
    "path": "legislation/de.json",
@@ -582,6 +602,12 @@
    "sha256": "36c3277a3d34fb8940d6134182a60b75a2ec0b3355315679ae2d6c87ce785a61",
    "bytes": 2389130,
    "built": "2026-11-16T00:00:41Z"
+  },
+  "PR": {
+   "path": "legislation/pr.json",
+   "sha256": "f06a9589ff957c598844ebfb2a8b928c61a725503fa55c389ebf0ae57e29c7e5",
+   "bytes": 382411,
+   "built": "2026-11-18T23:41:25Z"
   },
   "RI": {
    "path": "legislation/ri.json",
