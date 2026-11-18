@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "version": "2026-11-18T02:23:54Z",
+ "version": "2026-11-18T04:50:34Z",
  "built": "2026-11-17",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "8d997c5982cf888c88fcfda1ee1733eada6334ffa17ea04a7610dc5e20a94a72",
+   "sha256": "a95484a737a5f4eb0fd2faa809f692a52763c7e2da17b2a36dce7314cffd981c",
    "bytes": 72734,
    "built": "2026-11-17"
   },
@@ -23,6 +23,13 @@
    "sha256": "0f10cf770aeea258bfce9b1b186df0071fd5a27d50bcb3a5e0c49441eb867d13",
    "bytes": 38449,
    "built": "2026-11-14"
+  },
+  "CO": {
+   "path": "co.json",
+   "name": "Colorado",
+   "sha256": "05f8030e2bcbae51c714a833babd5ec94b50a0e1899c16e80ef1c1869a73cc4e",
+   "bytes": 26766,
+   "built": "2026-11-17"
   },
   "CT": {
    "path": "ct.json",
@@ -59,6 +66,13 @@
    "bytes": 39570,
    "built": "2026-11-17"
   },
+  "KY": {
+   "path": "ky.json",
+   "name": "Kentucky",
+   "sha256": "d335be18719f69f03f07b10c46102c373f98fafac0746d058cbc24df68c4a701",
+   "bytes": 40565,
+   "built": "2026-11-17"
+  },
   "MD": {
    "path": "md.json",
    "name": "Maryland",
@@ -85,6 +99,13 @@
    "name": "Minnesota",
    "sha256": "72513a63c532c786af2a8cd780771ea64150a4fbca6ff497127758a7100ba6ab",
    "bytes": 51379,
+   "built": "2026-11-17"
+  },
+  "MO": {
+   "path": "mo.json",
+   "name": "Missouri",
+   "sha256": "08ad9e44e7b9849eac331a978047f2dbd4d585d0e31e213326ddcb0aaacbd60c",
+   "bytes": 47198,
    "built": "2026-11-17"
   },
   "NC": {
@@ -115,6 +136,13 @@
    "bytes": 32903,
    "built": "2026-11-14"
   },
+  "OR": {
+   "path": "or.json",
+   "name": "Oregon",
+   "sha256": "76dda4c31eae7bc0f3bccf650b10a98bdcc707b3184ddc8880570cd09e8982a0",
+   "bytes": 23843,
+   "built": "2026-11-17"
+  },
   "PA": {
    "path": "pa.json",
    "name": "Pennsylvania",
@@ -128,6 +156,13 @@
    "sha256": "364ed17f387c44465ef8c236cfcb6eb7b0ad1728118c820a43c7d3b476ff7ff9",
    "bytes": 30445,
    "built": "2026-11-14"
+  },
+  "SC": {
+   "path": "sc.json",
+   "name": "South Carolina",
+   "sha256": "3bce710ad40296b11391dd003a77ef36eb7e46ecab727115f0543586567980fa",
+   "bytes": 42460,
+   "built": "2026-11-17"
   },
   "TN": {
    "path": "tn.json",
@@ -178,6 +213,12 @@
    "bytes": 3467506,
    "built": "2026-11-16T00:01:01Z"
   },
+  "CO": {
+   "path": "legislation/co.json",
+   "sha256": "136caf138df5691b0e2d0bc2109c1b3404652d122934bbed544643bfe63c91ef",
+   "bytes": 1079661,
+   "built": "2026-11-18T04:48:30Z"
+  },
   "CT": {
    "path": "legislation/ct.json",
    "sha256": "ccb79beb1ab7324d9c50c50ff6f242e42aa50568e21444c78190dfdb2f8f6969",
@@ -207,6 +248,12 @@
    "sha256": "44f83be254fc6d6b934f23092c831fd4a3326361212cbda8648ca6223cac13e7",
    "bytes": 1449568,
    "built": "2026-11-18T01:34:15Z"
+  },
+  "KY": {
+   "path": "legislation/ky.json",
+   "sha256": "059043c58fe88bdfcab460666ec3c2df79c1d80a07fcecfae4e3dce4c866823c",
+   "bytes": 1185575,
+   "built": "2026-11-18T04:48:33Z"
   },
   "MA": {
    "path": "legislation/ma.json",
@@ -238,6 +285,12 @@
    "bytes": 2125476,
    "built": "2026-11-18T01:34:21Z"
   },
+  "MO": {
+   "path": "legislation/mo.json",
+   "sha256": "a34514638613222d35d799a93bdef637173cf934ffdab159ba0b200172cd11ae",
+   "bytes": 1855733,
+   "built": "2026-11-18T04:50:34Z"
+  },
   "NC": {
    "path": "legislation/nc.json",
    "sha256": "4cd4e109b89c4e2ba9f950f1aaf5f50a1723b43216e9f7fcee5591fe4002fe3f",
@@ -262,6 +315,12 @@
    "bytes": 1135017,
    "built": "2026-11-16T00:00:43Z"
   },
+  "OR": {
+   "path": "legislation/or.json",
+   "sha256": "7c08dd0ca7a5db3c6a61e877d3a79ed2f016ea989f8a8c124eb13ebd570d8781",
+   "bytes": 738172,
+   "built": "2026-11-18T04:48:37Z"
+  },
   "PA": {
    "path": "legislation/pa.json",
    "sha256": "36c3277a3d34fb8940d6134182a60b75a2ec0b3355315679ae2d6c87ce785a61",
@@ -273,6 +332,12 @@
    "sha256": "b710ea0db6dfa8b25d3dbde4a31b4c0462b19b4b5a7d63f5e8083123ce26ad8e",
    "bytes": 1022114,
    "built": "2026-11-15T23:58:11Z"
+  },
+  "SC": {
+   "path": "legislation/sc.json",
+   "sha256": "5919c9d33a234dcd501debc78052b8f9757bbcfb032d6da7df111a32339cd16a",
+   "bytes": 920870,
+   "built": "2026-11-18T04:48:36Z"
   },
   "TN": {
    "path": "legislation/tn.json",
