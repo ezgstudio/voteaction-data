@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "version": "2026-11-18T05:59:00Z",
+ "version": "2026-11-18T13:26:23Z",
  "built": "2026-11-18",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "763afe8f08f0b1cc96ac379902116529f5b8af4a5b4a7a22717b98c761a29522",
+   "sha256": "2e7c9966025e7eedc794d0ed9c62306ac1f6dbb1b6750f38c3effd7db3a5824b",
    "bytes": 72734,
    "built": "2026-11-18"
   },
@@ -15,6 +15,13 @@
    "name": "Alaska",
    "sha256": "c56918c78561b834b49fd2a198f5b8b0e7b05f19b846087a9c1ba2d494f60e44",
    "bytes": 16086,
+   "built": "2026-11-18"
+  },
+  "AL": {
+   "path": "al.json",
+   "name": "Alabama",
+   "sha256": "69331a2941d61d36de2b4281ceec47fdd5ce6780b5b8d9bdbb5969b9f7c54d0e",
+   "bytes": 34643,
    "built": "2026-11-18"
   },
   "AR": {
@@ -72,6 +79,13 @@
    "sha256": "cf43eaba1bc26b4b9a91a93e58e6f52cd4db4fc9cada5c8a85e0b0fbbeea9a83",
    "bytes": 61481,
    "built": "2026-11-15"
+  },
+  "HI": {
+   "path": "hi.json",
+   "name": "Hawaii",
+   "sha256": "19c22f050f623a73266bf37d11e679f882d25f87c3385d790fc7c3eab3293ba0",
+   "bytes": 20071,
+   "built": "2026-11-18"
   },
   "IA": {
    "path": "ia.json",
@@ -183,6 +197,20 @@
    "name": "North Dakota",
    "sha256": "775f7fbd78de0ab40eca52282163c064f9fb3587b2de0711d2ab7d53a663d37b",
    "bytes": 32195,
+   "built": "2026-11-18"
+  },
+  "NE": {
+   "path": "ne.json",
+   "name": "Nebraska",
+   "sha256": "b275e0b588801da105924f499a779a7f80e97669c33e05b3ecaa5fcfa583d266",
+   "bytes": 14732,
+   "built": "2026-11-18"
+  },
+  "NH": {
+   "path": "nh.json",
+   "name": "New Hampshire",
+   "sha256": "38f4973c3b95789826f4bafb2fdda1859c23ad7aedb4bb3abdfb77d89df44494",
+   "bytes": 131725,
    "built": "2026-11-18"
   },
   "NJ": {
@@ -333,6 +361,12 @@
    "bytes": 711798,
    "built": "2026-11-18T05:48:18Z"
   },
+  "AL": {
+   "path": "legislation/al.json",
+   "sha256": "a6076a801847c9408cf2f43d02fb9cc93a118aa23fb0fe5d781ad362bc381dbb",
+   "bytes": 1176705,
+   "built": "2026-11-18T12:35:10Z"
+  },
   "AR": {
    "path": "legislation/ar.json",
    "sha256": "d39b7c9726878956bfc4ceece47b8c82eeded6b6db99951630c8660cd73dddc5",
@@ -380,6 +414,12 @@
    "sha256": "65f614fb532cefc86a0e1ff541fe6fa2ae92a7884d53ff99e955084eee6fb393",
    "bytes": 1357703,
    "built": "2026-11-16T00:01:30Z"
+  },
+  "HI": {
+   "path": "legislation/hi.json",
+   "sha256": "b7869c06a24ccff0c602a31d4d710e3ff7511ebc5b997c5c2bf61882fed9de68",
+   "bytes": 841934,
+   "built": "2026-11-18T12:56:41Z"
   },
   "IA": {
    "path": "legislation/ia.json",
@@ -482,6 +522,18 @@
    "sha256": "b5962e546bcc4d982c15e7b1b5d682d834ca0e3216693b661cd3b70676209c0a",
    "bytes": 1331272,
    "built": "2026-11-18T05:44:19Z"
+  },
+  "NE": {
+   "path": "legislation/ne.json",
+   "sha256": "46601546f1ea6c30eabcde6fece8c1584f3443481e416f17df0da5aa97380368",
+   "bytes": 848408,
+   "built": "2026-11-18T13:03:55Z"
+  },
+  "NH": {
+   "path": "legislation/nh.json",
+   "sha256": "7632b03da0765a999c000b99b071c49bd4e3fcbd2635404dc47fd2019399deb4",
+   "bytes": 2894854,
+   "built": "2026-11-18T13:22:30Z"
   },
   "NJ": {
    "path": "legislation/nj.json",
