@@ -1,27 +1,27 @@
 {
  "schema": 1,
- "version": "2026-11-19T05:04:25Z",
+ "version": "2026-11-19T05:34:53Z",
  "built": "2026-11-19",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "921e05ef8596049b8a453a5763a8295470bd54f4858348c630199d4106985f7a",
+   "sha256": "b061f396b2f017658eff7746d163f7e5a4ef34b1df9b186c5e3952d09060e689",
    "bytes": 72734,
    "built": "2026-11-19"
   },
   "AK": {
    "path": "ak.json",
    "name": "Alaska",
-   "sha256": "61ebd2096b1fb96e64ecb09dbe695b4bce642b29dd3bc96e36afa8a88857d4e7",
-   "bytes": 16712,
+   "sha256": "6a39603b9c72faaae6778de758fa20567e00357164d17e6002d98a11a315f489",
+   "bytes": 17021,
    "built": "2026-11-18"
   },
   "AL": {
    "path": "al.json",
    "name": "Alabama",
-   "sha256": "3522598a1ed3667b6ebe675b825d2ef126b1a2c44b4b07c9815d579ece7c422f",
-   "bytes": 37824,
+   "sha256": "bf24b09d73da0cc940338c48ba29ad7c2ca680f77124faf318f96f10f127ef4e",
+   "bytes": 38123,
    "built": "2026-11-18"
   },
   "AR": {
@@ -41,15 +41,15 @@
   "CA": {
    "path": "ca.json",
    "name": "California",
-   "sha256": "d61c394b14388427748d3b49e84175509a85b27464d582e6fa7a73bad6a84a65",
-   "bytes": 57957,
+   "sha256": "b442554755e18bf57bbd79312759fa983de1ce9bcf157a6ea347467efdd25b57",
+   "bytes": 58257,
    "built": "2026-11-14"
   },
   "CO": {
    "path": "co.json",
    "name": "Colorado",
-   "sha256": "d31163222f6404aad7db8718b4d892fe55ff3d3b84917053ce4a8bc038bb7510",
-   "bytes": 28491,
+   "sha256": "f6bffa98c0c73fbc9193fb954ab94a0215da92c06865a7e8ef5e1f4c25683c9d",
+   "bytes": 28786,
    "built": "2026-11-17"
   },
   "CT": {
@@ -76,15 +76,15 @@
   "FL": {
    "path": "fl.json",
    "name": "Florida",
-   "sha256": "601078160b0f63c610da6ce4825b0a2bee4d348c0958859eb8354d8ddc72f020",
-   "bytes": 51827,
+   "sha256": "ff345305f8a65bfb4ef438e1b150d4483f58467c06b5c6ebefe84aeec178cf5b",
+   "bytes": 52123,
    "built": "2026-11-14"
   },
   "GA": {
    "path": "ga.json",
    "name": "Georgia",
-   "sha256": "d2a8847b9680b137efa92e0c0844dafe71eb912bfd7b8180d966d971eec05def",
-   "bytes": 63414,
+   "sha256": "10ab09b95203fe5515b74864a1b2aded975a30a92b77a1c6136e1bdf459926da",
+   "bytes": 63717,
    "built": "2026-11-15"
   },
   "HI": {
@@ -97,8 +97,8 @@
   "IA": {
    "path": "ia.json",
    "name": "Iowa",
-   "sha256": "b5ccde33e0a19a013077918900a05be5c240b0f95c110c6b14e36a87a6e4efd1",
-   "bytes": 40076,
+   "sha256": "ce4dc88f8d571316a12ba842d10aee3fb4991d731e3b8d6a81a0cfd049abb5a7",
+   "bytes": 40380,
    "built": "2026-11-18"
   },
   "ID": {
@@ -125,8 +125,8 @@
   "KS": {
    "path": "ks.json",
    "name": "Kansas",
-   "sha256": "3dfc474edc4e076f041591bad78e763a2be32631df7837377423bda836946cd8",
-   "bytes": 43088,
+   "sha256": "0b4974c1bdc10e138d9c1841841f46ef3ff999e5eae2301809dd8019420cb5c2",
+   "bytes": 43384,
    "built": "2026-11-18"
   },
   "KY": {
@@ -153,22 +153,22 @@
   "ME": {
    "path": "me.json",
    "name": "Maine",
-   "sha256": "298bc3a9304581d3c172c779dd79c21aa708533c84697d5e2ec6d61e11456142",
-   "bytes": 50128,
+   "sha256": "06615b2dec07d1ba1154c22cf6787a30190bb006b4905f1d930ecece9e32fece",
+   "bytes": 50423,
    "built": "2026-11-14"
   },
   "MI": {
    "path": "mi.json",
    "name": "Michigan",
-   "sha256": "41157894fa1bd0f7a28b37094e5aa3b2921c164b4e099448050501bd5e233b81",
-   "bytes": 39023,
+   "sha256": "6c13710fe703bf1ef363541e62fb13422b8a576690cebb40fb745ca7ed841cc7",
+   "bytes": 39321,
    "built": "2026-11-14"
   },
   "MN": {
    "path": "mn.json",
    "name": "Minnesota",
-   "sha256": "5f31e8ee5d2d4ac8c22575246f8d4acccb62806c93ded2722154871f6360bc6f",
-   "bytes": 52624,
+   "sha256": "625228e3baaf6fd4d35da46a458cb41415336a21082053bc09f8a192fdcd73d9",
+   "bytes": 52938,
    "built": "2026-11-17"
   },
   "MO": {
@@ -230,15 +230,15 @@
   "NM": {
    "path": "nm.json",
    "name": "New Mexico",
-   "sha256": "a7acd0b1c1a5a453319f655b84a6c20d8ba0c30bdafed10de5071f797a7a4075",
-   "bytes": 29035,
+   "sha256": "f93bf96bb168739a4cef040689aa6118452c43847bba167a8866baba4d925cd0",
+   "bytes": 29332,
    "built": "2026-11-18"
   },
   "NV": {
    "path": "nv.json",
    "name": "Nevada",
-   "sha256": "296c92cbddf6c40c7fb51df29d295a15cbf3b0869f150d728e405e601ec7a59a",
-   "bytes": 17080,
+   "sha256": "0cdbebf29929f36c5203a9f79f2876d3f1cdff89069326b8d5ab55ed8cb10889",
+   "bytes": 17389,
    "built": "2026-11-18"
   },
   "NY": {
@@ -251,15 +251,15 @@
   "OH": {
    "path": "oh.json",
    "name": "Ohio",
-   "sha256": "1de8cb3b6c200520d6b706f0fcf6cc2475dca696e1eda03f57f4d0e02e6ac7e6",
-   "bytes": 38795,
+   "sha256": "72fda1f023ceb88b04040326fb36d494996486cc27a28f6b7e08a1333ff00159",
+   "bytes": 39084,
    "built": "2026-11-14"
   },
   "OK": {
    "path": "ok.json",
    "name": "Oklahoma",
-   "sha256": "fd76eb40d4b255136d5b29daeff22d144fed8a7274ddc1f27eeb366a783849e3",
-   "bytes": 34202,
+   "sha256": "cf15468a77f41f7f52f220f30b00283b085c145dffb7ac8163be771aa6525425",
+   "bytes": 34497,
    "built": "2026-11-18"
   },
   "OR": {
@@ -286,15 +286,15 @@
   "RI": {
    "path": "ri.json",
    "name": "Rhode Island",
-   "sha256": "9cb188d6d23d12026d87ea4422e464f25b7edaaf51f576dcb0bf2f29b2a2aaa0",
-   "bytes": 30605,
+   "sha256": "9b6da4208d88fba7e12ca3383e68bac3ae25f30ae66ff2225116c255ccedbfe5",
+   "bytes": 30923,
    "built": "2026-11-14"
   },
   "SC": {
    "path": "sc.json",
    "name": "South Carolina",
-   "sha256": "525300f0389495762c173dfabd09e0c22be8f0c90d95243dfc0c1763f103c2e9",
-   "bytes": 43731,
+   "sha256": "9d24faf96b9fd383d721486d90ecaeb2925c1f2ed9937133080aedc36607e0b3",
+   "bytes": 44032,
    "built": "2026-11-17"
   },
   "SD": {
@@ -307,15 +307,15 @@
   "TN": {
    "path": "tn.json",
    "name": "Tennessee",
-   "sha256": "a471594d75ff3d63efa964986622605575e6213fe1aec9752c0612016ef7919f",
-   "bytes": 37911,
+   "sha256": "77d72b50912f622752ba70a8803f3ebc098f2ecc4af8eadcca087fdb149d1d2b",
+   "bytes": 38212,
    "built": "2026-11-17"
   },
   "TX": {
    "path": "tx.json",
    "name": "Texas",
-   "sha256": "9969510248390150b70ca109b01ca1d7a951fdeee0925efd8d677d5e9177f759",
-   "bytes": 64065,
+   "sha256": "9ff1fa8f454452ce0174ca18de68fc395800bd47f680f2e44e0120b9fd8afe8b",
+   "bytes": 64376,
    "built": "2026-11-14"
   },
   "UT": {
@@ -349,8 +349,8 @@
   "WI": {
    "path": "wi.json",
    "name": "Wisconsin",
-   "sha256": "60e6d1730fc0396e90ad02b1b388036860e2f400368186b2e5875b549d10742f",
-   "bytes": 37487,
+   "sha256": "cb7315fcd2ca32fa68b68da00f40cffea8e01d4b21c7cdde7262f78a3f1d36fc",
+   "bytes": 37801,
    "built": "2026-11-17"
   },
   "WV": {
@@ -363,8 +363,8 @@
   "WY": {
    "path": "wy.json",
    "name": "Wyoming",
-   "sha256": "07f782d008289da1ed9fa2c5877b13ee37c1568c827b0f841568cb98e1369006",
-   "bytes": 23632,
+   "sha256": "da30936f9a040c7bdabf38e25e30759e40c60a163b553ff0db16b7206d91196a",
+   "bytes": 23926,
    "built": "2026-11-18"
   }
  },
