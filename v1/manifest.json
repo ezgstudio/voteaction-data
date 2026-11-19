@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "version": "2026-11-18T23:56:55Z",
+ "version": "2026-11-19T04:36:17Z",
  "built": "2026-11-18",
  "states": {
   "MA": {
    "path": "ma.json",
    "name": "Massachusetts",
-   "sha256": "7a794909fe48f462afa5e44dd9c72aa2338329736369a1a77b5c94d824408c01",
+   "sha256": "fd60fb0fb94fff3179faeb3aac2b02b13d6351cc23f0b9c5edcebccc23de588c",
    "bytes": 72734,
    "built": "2026-11-18"
   },
@@ -20,8 +20,8 @@
   "AL": {
    "path": "al.json",
    "name": "Alabama",
-   "sha256": "69331a2941d61d36de2b4281ceec47fdd5ce6780b5b8d9bdbb5969b9f7c54d0e",
-   "bytes": 34643,
+   "sha256": "b26a8c502fbd2fd70efb0d7e42cba1e6808bfe814e323c42dc6d570b70219e0f",
+   "bytes": 34942,
    "built": "2026-11-18"
   },
   "AR": {
@@ -62,8 +62,8 @@
   "DC": {
    "path": "dc.json",
    "name": "District of Columbia",
-   "sha256": "d894bd52c4cc454f5bf1b6554dd9e12cba80be3252c2c559886c55207c3abd64",
-   "bytes": 13568,
+   "sha256": "b6baa42a498e95f2d38d9675f0e59292398b2c700cfd25af97de753658657ec6",
+   "bytes": 19803,
    "built": "2026-11-18"
   },
   "DE": {
@@ -90,8 +90,8 @@
   "HI": {
    "path": "hi.json",
    "name": "Hawaii",
-   "sha256": "19c22f050f623a73266bf37d11e679f882d25f87c3385d790fc7c3eab3293ba0",
-   "bytes": 20071,
+   "sha256": "9d4190662838e64146486fc7a5a35ef952c16eb4993d63bcedbb24ea23d56592",
+   "bytes": 20806,
    "built": "2026-11-18"
   },
   "IA": {
